@@ -4,7 +4,7 @@ background-size: cover;
 background-attachment: fixed;
 }
 
-.h1{
+h1{
 color: #F8F8FF;
 text-transform: uppercase;
 font-family: poppins;
@@ -49,8 +49,8 @@ transition: 1.5s;
 
 .container1{
 position: relative;
-top: 100%;
-Left: 200%;
+top: 50%;
+left: 250%;
 transform: translate(-50%,-50%);
 }
 
@@ -73,7 +73,7 @@ transition: 1.5s;
 .container2{
 position: relative;
 top: 50%;
-left: -50%;
+left: 90%;
 transform: translate(-50%,-50%);
 }
 
