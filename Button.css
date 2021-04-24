@@ -96,3 +96,17 @@ transition: 1.5s;
 display: grid; 
 grid-template-columns: 1fr 1fr 1fr;
 }
+
+box:link {
+ Color: white;
+}
+box:visited {
+  color: green;
+}
+box:hover {
+  color: hotpink;
+}
+box:active {
+  color: blue;
+}
+
