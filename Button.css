@@ -27,7 +27,7 @@ color: black;
 .container{
 position: absolute;
 top: 50%;
-left: 50%
+left: 85%
 transform: translate(-50%,-50%);
 }
 
