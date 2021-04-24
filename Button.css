@@ -49,6 +49,7 @@ transition: 1.5s;
 
 .container1{
 position: absolute;
+left: 150px
 top: 50%;
 left: 50%
 transform: translate(-50%,-50%);
