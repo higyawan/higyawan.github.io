@@ -3,6 +3,13 @@ background-image:url(Grdnt.jpg);
 background-size: cover;
 background-attachment: fixed;
 }
+
+h1{
+color: #F8F8FF
+text-transform: uppercase;
+font-family: poppins;
+}
+
 .content{
 background: white;
 width: 50%;
