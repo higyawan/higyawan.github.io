@@ -27,7 +27,7 @@ color: black;
 .container{
 position: relative;
 top: 50%;
-left: 50%
+left: 50%;
 transform: translate(-50%,-50%);
 }
 
@@ -50,7 +50,7 @@ transition: 1.5s;
 .container1{
 position: relative;
 top: 50%;
-right: 100%
+right: 100%;
 transform: translate(-50%,-50%);
 }
 
@@ -71,9 +71,9 @@ transition: 1.5s;
 }
 
 .container2{
-position: relative ;
+position: relative;
 top: 50%;
-left: 25%
+left: 25%;
 transform: translate(-50%,-50%);
 }
 
