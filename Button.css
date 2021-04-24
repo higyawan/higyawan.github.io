@@ -50,7 +50,7 @@ transition: 1.5s;
 .container1{
 position: relative;
 top: 50%;
-left: 100%
+right: 100%
 transform: translate(-50%,-50%);
 }
 
