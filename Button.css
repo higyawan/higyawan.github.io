@@ -92,3 +92,8 @@ letter-spacing: 15px;
 border-radius:  100px;
 transition: 1.5s;
 }
+.box{
+display: inline-block; 
+width: 100px;
+height: 100px;
+}
