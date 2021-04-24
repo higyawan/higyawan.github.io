@@ -2,9 +2,6 @@ body{
 background-image:url(Grdnt.jpg);
 background-size: cover;
 background-attachment: fixed;
-margin: 0;
-padding: 0;
-
 }
 .content{
 background: white;
