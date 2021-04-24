@@ -93,7 +93,6 @@ border-radius:  100px;
 transition: 1.5s;
 }
 .box{
-display: inline-block; 
-width: 100px;
-height: 100px;
+display: grid; 
+grid-template-columns: 1fr 1fr 1fr;
 }
