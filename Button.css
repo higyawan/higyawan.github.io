@@ -4,7 +4,7 @@ background-size: cover;
 background-attachment: fixed;
 }
 
-h1{
+.h1{
 color: #F8F8FF
 text-transform: uppercase;
 font-family: poppins;
@@ -32,6 +32,52 @@ transform: translate(-50%,-50%);
 }
 
 .button{
+position: relative;
+text-align: center;
+width: 250px;
+padding: 40px;
+font-size: 35px;
+color: #F8F8FF;
+font-family: poppins;
+font-weight: 400;
+border: 5px solid #F8F8FF;
+text-transform: uppercase;
+letter-spacing: 15px;
+border-radius:  100px;
+transition: 1.5s;
+}
+
+.container1{
+position: absolute;
+top: 50%;
+left: 50%
+transform: translate(-50%,-50%);
+}
+
+.button1{
+position: relative;
+text-align: center;
+width: 250px;
+padding: 40px;
+font-size: 35px;
+color: #F8F8FF;
+font-family: poppins;
+font-weight: 400;
+border: 5px solid #F8F8FF;
+text-transform: uppercase;
+letter-spacing: 15px;
+border-radius:  100px;
+transition: 1.5s;
+}
+
+.container2{
+position: absolute;
+top: 50%;
+left: 50%
+transform: translate(-50%,-50%);
+}
+
+.button2{
 position: relative;
 text-align: center;
 width: 250px;
