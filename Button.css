@@ -50,7 +50,7 @@ transition: 1.5s;
 .container1{
 position: relative;
 top: 50%;
-left: 250%;
+left: 50%;
 transform: translate(-50%,-50%);
 }
 
@@ -73,7 +73,7 @@ transition: 1.5s;
 .container2{
 position: relative;
 top: 50%;
-left: 90%;
+left: 50%;
 transform: translate(-50%,-50%);
 }
 
