@@ -25,7 +25,7 @@ color: black;
 }
 
 .container{
-position: static;
+position: fixed;
 top: 50%;
 left: 50%;
 transform: translate(-50%,-50%);
@@ -48,7 +48,7 @@ transition: 1.5s;
 }
 
 .container1{
-position: static;
+position: fixed;
 top: 50%;
 left: 50%;
 transform: translate(-50%,-50%);
@@ -71,7 +71,7 @@ transition: 1.5s;
 }
 
 .container2{
-position: static;
+position: fixed;
 top: 50%;
 left: 50%;
 transform: translate(-50%,-50%);
