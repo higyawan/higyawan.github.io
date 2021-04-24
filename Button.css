@@ -97,16 +97,16 @@ display: grid;
 grid-template-columns: 1fr 1fr 1fr;
 }
 
-box:link {
+a:link {
  Color: white;
 }
-box:visited {
+a:visited {
   color: green;
 }
-box:hover {
+a:hover {
   color: hotpink;
 }
-box:active {
+a:active {
   color: blue;
 }
 
