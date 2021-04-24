@@ -1,23 +1,27 @@
 
-                 body{
-			background-image:url(Grdnt.jpg);
-			background-size: cover;
-			background-attachment: fixed;
-		}
-
-		.content{
-			background: white;
-			width: 50%;
-			padding: 40px;
-			margin: 100px auto;
-			font-family: calibri;
-			border-radius: 10px;
-		}
-
-		p{
-			font-size: 25px;
-			color: black;
-		}
-                h1{
-			color: white;
-                }
+body{
+margin: 0;
+padding: 0;
+background-color: #000;
+}
+.container{
+position: absolute;
+top: 50%;
+left: 50%
+transform: translate(-50%,-50%);
+}
+.button{
+position: relative;
+text-align: center;
+width: 250px;
+padding: 40px;
+font-size: 35px;
+color: #F8F8FF;
+font-family: poppins;
+font-weight: 400;
+border: 5px solid #F8F8FF;
+text-transform: uppercase;
+letter-spacing: 15px;
+border-radius:  100px;
+transition: 1.5s;
+}
