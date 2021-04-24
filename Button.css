@@ -98,15 +98,15 @@ grid-template-columns: 1fr 1fr 1fr;
 }
 
 a:link {
- Color: white;
+ Color: #F8F8FF;
 }
 a:visited {
-  color: green;
+  color: #845cfc;
 }
 a:hover {
-  color: hotpink;
+  color: #449cfc;
 }
 a:active {
-  color: blue;
+  color: #2bc5fc;
 }
 
