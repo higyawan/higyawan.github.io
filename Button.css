@@ -93,9 +93,13 @@ border-radius:  100px;
 transition: 1.5s;
 }
 .box{
-display: grid; 
-width: 100px;
-height: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 200px;
+border: 3px solid #F8F8FF; 
+border-radius:  100px;
+
 }
 
 a:link {
