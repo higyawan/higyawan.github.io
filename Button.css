@@ -93,8 +93,7 @@ border-radius:  100px;
 transition: 1.5s;
 }
 .box{
-display: flex; 
-flex: 1;
+display: grid; 
 width: 100px;
 height: 100px;
 }
