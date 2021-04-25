@@ -93,9 +93,10 @@ border-radius:  100px;
 transition: 1.5s;
 }
 .box{
-display: grid; 
-grid-template-columns: 1fr 1fr 1fr;
-grid-gap: 10px;
+display: flex; 
+flex: 1;
+width: 100px;
+height: 100px;
 }
 
 a:link {
