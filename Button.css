@@ -25,7 +25,7 @@ color: black;
 }
 
 .container{
-position: relative;
+position: static;
 top: 50%;
 left: 50%;
 transform: translate(-50%,-50%);
@@ -41,6 +41,7 @@ color: #F8F8FF;
 font-family: poppins;
 font-weight: 400;
 border: 5px solid #F8F8FF;
+
 text-transform: uppercase;
 letter-spacing: 15px;
 border-radius:  100px;
@@ -93,7 +94,7 @@ border-radius:  100px;
 transition: 1.5s;
 }
 .box{
-display: flex;
+display: grid;
 justify-content: center;
 align-items: center;
 height: 200px;
