@@ -92,6 +92,7 @@ letter-spacing: 15px;
 border-radius:  100px;
 transition: 1.5s;
 }
+
 .box{
 display: grid;
 grid-template-columns: 1fr 1fr 1fr;
