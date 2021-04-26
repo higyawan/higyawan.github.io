@@ -95,7 +95,7 @@ transition: 1.5s;
 
 box{
 display: grid;
-align-items: stretch;
+justify-items: stretch;
 }
 
 a:link{
