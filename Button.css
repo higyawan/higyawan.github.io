@@ -95,8 +95,7 @@ transition: 1.5s;
 
 box{
 display: grid;
-grid-template-columns: 1fr 1fr 1fr;
-grid-gap: 5px;
+align-items: stretch;
 }
 
 a:link{
