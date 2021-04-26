@@ -8,6 +8,7 @@ h1{
 color: #F8F8FF;
 text-transform: uppercase;
 font-family: poppins;
+text-shadow: 2px 2px 5px #D3D3D3;
 }
 
 .content{
