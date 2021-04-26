@@ -95,7 +95,7 @@ transition: 1.5s;
 }
 .box{
 display: grid;
-grid-column-gap: 3px;
+grid-template-columns: 1fr 1fr 1fr;
 
 }
 
