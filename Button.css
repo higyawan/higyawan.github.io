@@ -96,8 +96,8 @@ transition: 1.5s;
 .box{
 display: grid;
 grid-row-gap: 10px;
-grid-column-gap: 10px;
-justify-items: stretch;
+grid-column-gap: 20px;
+justify-content: space-evenly;
 }
 
 a:link{
