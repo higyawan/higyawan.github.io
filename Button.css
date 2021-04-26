@@ -97,7 +97,7 @@ transition: 1.5s;
 display: grid;
 grid-row-gap: 10px;
 grid-column-gap: 10px;
-justify-items: center;
+justify-items: stretch;
 }
 
 a:link{
