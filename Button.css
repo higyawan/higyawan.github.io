@@ -99,19 +99,22 @@ display: grid;
 grid-row-gap: 10px;
 grid-column-gap: 30px;
 justify-content: space-evenly;
-text-decoration: none;
 }
 
 a:link{
- Color: #F8F8FF;
+color: #F8F8FF;
+text-decoration: none;
 }
 a:visited{
-  color: #845cfc;
+color: #845cfc;
+text-decoration: none;
 }
 a:hover{
-  color: #449cfc;
+color: #449cfc;
+text-decoration: none;
 }
 a:active{
-  color: #2bc5fc;
+color: #2bc5fc;
+text-decoration: none;
 }
 
