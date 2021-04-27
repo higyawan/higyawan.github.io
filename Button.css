@@ -102,6 +102,7 @@ justify-content: space-evenly;
 }
 
 a:link{
+color: #F8F8FF;
 text-decoration: none;
 }
 a:visited{
